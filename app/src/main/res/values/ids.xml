@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="profileImageView" type="id" />
+    <item name="Imageview" type="id" />
+    <item name="Imageview2" type="id" />
+    <item name="drawable" type="id" />
+</resources>
